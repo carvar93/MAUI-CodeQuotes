@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeQuotes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+0322bda742593a84568dea50b54263934b2c45e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeQuotes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeQuotes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

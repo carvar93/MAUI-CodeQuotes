@@ -3,27 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|c:\\users\\usuario\\documents\\projects\\codequotes\\codequotes\\codequotes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|solutionrelative:codequotes\\codequotes.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|c:\\users\\usuario\\documents\\projects\\codequotes\\codequotes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|solutionrelative:codequotes\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|c:\\users\\usuario\\documents\\projects\\codequotes\\codequotes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\codequotes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|solutionrelative:codequotes\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|c:\\users\\usuario\\documents\\projects\\codequotes\\codequotes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\codequotes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|solutionrelative:codequotes\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|c:\\users\\usuario\\documents\\projects\\codequotes\\codequotes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\codequotes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|solutionrelative:codequotes\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|c:\\users\\usuario\\documents\\projects\\codequotes\\codequotes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\codequotes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|solutionrelative:codequotes\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|c:\\users\\usuario\\documents\\projects\\codequotes\\codequotes\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\codequotes\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{30787C1C-455E-412E-9290-EE0F7A1648E2}|CodeQuotes\\CodeQuotes.csproj|solutionrelative:codequotes\\resources\\raw\\aboutassets.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -34,11 +38,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{228e1580-0ef9-329a-bf07-81ebc3dcbf7e}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "CodeQuotes",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\CodeQuotes\\CodeQuotes.csproj",
+              "RelativeDocumentMoniker": "CodeQuotes\\CodeQuotes.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\CodeQuotes\\CodeQuotes.csproj",
+              "RelativeToolTip": "CodeQuotes\\CodeQuotes.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-06T06:04:16.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\CodeQuotes\\App.xaml.cs",
               "RelativeDocumentMoniker": "CodeQuotes\\App.xaml.cs",
@@ -46,12 +66,11 @@
               "RelativeToolTip": "CodeQuotes\\App.xaml.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAIA2wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T05:44:44.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T05:44:44.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\CodeQuotes\\App.xaml",
               "RelativeDocumentMoniker": "CodeQuotes\\App.xaml",
@@ -59,12 +78,11 @@
               "RelativeToolTip": "CodeQuotes\\App.xaml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-06T05:44:35.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T05:44:35.014Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\CodeQuotes\\MauiProgram.cs",
               "RelativeDocumentMoniker": "CodeQuotes\\MauiProgram.cs",
@@ -72,12 +90,11 @@
               "RelativeToolTip": "CodeQuotes\\MauiProgram.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAIAzwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T05:44:12.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T05:44:12.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "AboutAssets.txt",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\CodeQuotes\\Resources\\Raw\\AboutAssets.txt",
               "RelativeDocumentMoniker": "CodeQuotes\\Resources\\Raw\\AboutAssets.txt",
@@ -85,12 +102,11 @@
               "RelativeToolTip": "CodeQuotes\\Resources\\Raw\\AboutAssets.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-06-06T05:30:33.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T05:30:33.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\CodeQuotes\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "CodeQuotes\\MainPage.xaml.cs",
@@ -98,12 +114,11 @@
               "RelativeToolTip": "CodeQuotes\\MainPage.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T04:40:47.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-06T04:40:47.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Projects\\CodeQuotes\\CodeQuotes\\MainPage.xaml",
               "RelativeDocumentMoniker": "CodeQuotes\\MainPage.xaml",
